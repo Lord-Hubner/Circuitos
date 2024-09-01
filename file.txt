@@ -1,0 +1,220 @@
+
+Dicionario modificado:
+S : 1.07
+
+Media X: 18.95, media R: 13.00, media E: 14.65
+
+Dicionario modificado:
+Et : 1.07
+
+Media X: 16.63, media R: 16.39, media E: 18.61
+
+Dicionario modificado:
+ks : 1.07
+
+Media X: 18.95, media R: 13.00, media E: 14.65
+
+Dicionario modificado:
+kdx : 0.07
+
+Media X: 18.38, media R: 18.14, media E: 18.42
+
+Dicionario modificado:
+kr : 1.07
+
+Media X: 14.20, media R: 12.98, media E: 19.46
+
+Dicionario modificado:
+kbasx : 0.17
+
+Media X: 15.17, media R: 13.81, media E: 34.53
+
+Dicionario modificado:
+Et : 1.21
+
+Media X: 17.28, media R: 17.67, media E: 19.43
+
+Dicionario modificado:
+Et : 1.28
+
+Media X: 22.47, media R: 18.31, media E: 19.75
+
+Dicionario modificado:
+Et : 1.35
+
+Media X: 17.82, media R: 16.86, media E: 20.26
+
+Dicionario modificado:
+Et : 1.42
+
+Media X: 18.08, media R: 20.12, media E: 18.36
+
+Dicionario modificado:
+kmk : 0.52
+
+Media X: 16.79, media R: 17.28, media E: 18.15
+
+Dicionario modificado:
+K : 1.49
+
+Media X: 17.62, media R: 17.51, media E: 18.35
+
+Dicionario modificado:
+Et : 1.49
+
+Media X: 22.90, media R: 16.21, media E: 23.39
+
+Dicionario modificado:
+kdr : 1.49
+
+Media X: 16.98, media R: 16.88, media E: 19.75
+
+Dicionario modificado:
+kp : 1.49
+
+Media X: 17.62, media R: 17.51, media E: 18.35
+
+Dicionario modificado:
+kmk : 0.5900000000000001
+
+Media X: 18.19, media R: 18.78, media E: 22.16
+
+Dicionario modificado:
+K : 1.56
+
+Media X: 17.76, media R: 17.05, media E: 19.27
+
+Dicionario modificado:
+Et : 1.56
+
+Media X: 18.42, media R: 23.40, media E: 19.07
+
+Dicionario modificado:
+kp : 1.56
+
+Media X: 17.76, media R: 17.05, media E: 19.27
+
+Dicionario modificado:
+kmk : 0.66
+
+Media X: 16.90, media R: 16.23, media E: 23.93
+
+Dicionario modificado:
+K : 1.6300000000000001
+
+Media X: 17.79, media R: 17.79, media E: 20.55
+
+Dicionario modificado:
+Et : 1.6300000000000001
+
+Media X: 18.83, media R: 15.86, media E: 29.22
+
+Dicionario modificado:
+kdr : 1.6300000000000001
+
+Media X: 16.52, media R: 19.56, media E: 18.26
+
+Dicionario modificado:
+kp : 1.6300000000000001
+
+Media X: 17.79, media R: 17.79, media E: 20.55
+
+Dicionario modificado:
+kmk : 0.7300000000000001
+
+Media X: 17.08, media R: 16.23, media E: 19.26
+
+Dicionario modificado:
+K : 1.7000000000000002
+
+Media X: 21.69, media R: 15.80, media E: 18.12
+
+Dicionario modificado:
+Et : 1.7000000000000002
+
+Media X: 18.90, media R: 16.16, media E: 19.88
+
+Dicionario modificado:
+kdr : 1.7000000000000002
+
+Media X: 14.75, media R: 14.60, media E: 21.30
+
+Dicionario modificado:
+kp : 1.7000000000000002
+
+Media X: 21.69, media R: 15.80, media E: 18.12
+
+Dicionario modificado:
+kdr : 1.77
+
+Media X: 14.57, media R: 29.16, media E: 17.28
+
+Dicionario modificado:
+K : 0.9299999999999999
+
+Media X: 19.21, media R: 12.64, media E: 14.94
+
+Dicionario modificado:
+kdr : 0.9299999999999999
+
+Media X: 14.36, media R: 13.12, media E: 14.87
+
+Dicionario modificado:
+kp : 0.9299999999999999
+
+Media X: 19.21, media R: 12.64, media E: 14.94
+
+Dicionario modificado:
+S : 0.79
+
+Media X: 16.78, media R: 16.61, media E: 21.19
+
+Dicionario modificado:
+ks : 0.79
+
+Media X: 16.78, media R: 16.61, media E: 21.19
+
+Dicionario modificado:
+S : 0.72
+
+Media X: 17.76, media R: 17.60, media E: 19.21
+
+Dicionario modificado:
+ks : 0.72
+
+Media X: 17.76, media R: 17.60, media E: 19.21
+
+Dicionario modificado:
+kr : 0.72
+
+Media X: 18.62, media R: 17.78, media E: 19.42
+
+Dicionario modificado:
+S : 0.6499999999999999
+
+Media X: 17.79, media R: 17.69, media E: 18.57
+
+Dicionario modificado:
+ks : 0.6499999999999999
+
+Media X: 17.79, media R: 17.69, media E: 18.57
+
+Dicionario modificado:
+kr : 0.6499999999999999
+
+Media X: 17.96, media R: 18.55, media E: 18.08
+
+Dicionario modificado:
+S : 0.58
+
+Media X: 25.89, media R: 16.54, media E: 55.84
+
+Dicionario modificado:
+ks : 0.58
+
+Media X: 25.89, media R: 16.54, media E: 55.84
+
+Dicionario modificado:
+kr : 0.58
+
+Media X: 17.54, media R: 16.83, media E: 22.16
